@@ -13,7 +13,7 @@ We are attempting to evaluate your proficiency and confidence with Python, data 
 Please use good programming patterns.
 Really, we are just looking for good code.
 
-### Completeion
+### Completion
 
 When you are done please zip your code and submit it via email to [greg@briefmedia.com](mailto://greg@briefmedia.com). Include any pertinent instructions to build and run your application. 
 
